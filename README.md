@@ -1,6 +1,8 @@
 # paint
 Simple paint tool powered by OpenGL.
 
+navigate to build folder and run ./paint to run program
+
 Simple paint tool. Powered by OpenGL.
 
 Color Options:
